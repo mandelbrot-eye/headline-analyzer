@@ -1,4 +1,4 @@
 # World history through analysis of the newspaper's headlines
-(___)
+___
 ### New York Times data scraping 
 
