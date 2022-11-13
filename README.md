@@ -1,5 +1,5 @@
 # World's history through analysis of New York Times headlines.
-Scraping the headlines of the newspapers and tringing the neuronal network to create new headlines based on the old ones.
+Scraping the headlines of the newspapers and training the neuronal network to create new headlines based on the old ones.
 ___
 
 ## The outline of the project:
@@ -9,6 +9,7 @@ ___
 4. Exploration and vizualization of the data
 5. Preprocessing the data
 6. NLP analys
+
   6a. 
   6b. Sentiment analysis 
   6c. Tokenization and vectorization of thr data
