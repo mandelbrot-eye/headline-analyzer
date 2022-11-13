@@ -14,6 +14,7 @@ ___
   6b. Sentiment analysis 
   6c. Tokenization and vectorization of thr data
   6d. 
+  
 7. Choosing the Text generating model
 8. Training of the NN
 9. Deploying the model. Results
