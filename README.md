@@ -1,16 +1,21 @@
-# World's history through analysis of the newspaper's headlines
+# World's history through analysis of New York Times headlines.
 Scraping the headlines of the newspapers and tringing the neuronal network to create new headlines based on the old ones.
 ___
 
 ## The outline of the project:
 1. Choosing the subjects and methods of the study
 2. Scraping the data
-3. Cleaning the data
-4. Exploration and Sentiment analysis 
-5. NLP analys
-6. Choosing the Text generating model
-7. Training of the NN
-8. Deploying the model and results
+3. Profiling and cleaning the data
+4. Exploration and vizualization of the data
+5. Preprocessing the data
+6. NLP analys
+  6a. 
+  6b. Sentiment analysis 
+  6c. Tokenization and vectorization of thr data
+  6d. 
+7. Choosing the Text generating model
+8. Training of the NN
+9. Deploying the model. Results
 
 ### Choosing the subject and methods of the study
 ~~This was mistaken text~~
@@ -65,14 +70,24 @@ I would like to thank Brienna Herold for her article about [How to Collect Data 
 [Link](https://lingfeiwu1.gitbooks.io/data-mining-in-social-science/content/scraping_articles_from_the_washington_post/)
 [Scraping Washington Post with Python and Beautiful Soup](https://proxiesapi.com/blog/scraping-washington-post-with-python-and-beautiful.html.php)
 
-### Exploration and Sentiment analysis 
+###Profiling and cleaning the data
+
+### Exploration and vizualization of the data
+
+
+###Preprocessing the data
+
+### NLP
+
+[Spacy library](https://spacy.io)
+[Natural Language Processing With spaCy in Python](https://realpython.com/natural-language-processing-spacy-python/#visualization-using-displacy)
+
+####
+#### Sentiment analysis
+
 [Twitter example of Sentiment analysis](https://medium.com/@nikitasilaparasetty/twitter-sentiment-analysis-for-data-science-using-python-in-2022-6d5e43f6fa6e)
 
 [R: Scraping The New York Times For Sentiment Analysis Of Presidential Candidates](https://rstudio-pubs-static.s3.amazonaws.com/503266_3d55c43b76614a8da0a935c60016cd02.html)
-
-### NLP
-[Spacy library](https://spacy.io)
-[Natural Language Processing With spaCy in Python](https://realpython.com/natural-language-processing-spacy-python/#visualization-using-displacy)
 
 ### Choosing the Text generating model
 [Generating Fake but Realistic Headlines Using Deep Neural Networks](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7121779/)
