@@ -11,8 +11,8 @@ ___
 6. NLP analys 
   6a.  
   6b. Sentiment analysis   
-  6c. Tokenization and vectorization of thr data. 
-  6d.    
+  6c. Tokenization and vectorization of thr data       
+  6d.      
 7. Choosing the Text generating model  
 8. Training of the NN  
 9. Deploying the model. Results
@@ -23,13 +23,13 @@ ___
 
 #### Python libraries that are useful for the project
 
-**re**: ‘Regular Expression’ allows us to check if a specified string and a given regular expression match.  
-**numpy**: ‘NumPy’ allows us to work with arrays.  
-**textblob**: ‘TextBlob’ allows us to process textual data for NLP.  
-**matplotlib.pyplot**: ‘Matplotlib’ allows us to visualize data in multiple ways.  
-**pandas**: ‘Pandas’ is used to work with data to analyze it.  
-**wordcloud**: ‘Wordcloud’ allows us to generate a word cloud in Python for visualization.  
-**better_profanity**: ‘Better-Profanity’ allows us to censor data.  
+**numpy**: ‘NumPy’ allows to work with arrays.  \
+**pandas**: ‘Pandas’ is used to work with data to analyze it.  \
+**textblob**: ‘TextBlob’ allows us to process textual data for NLP.  \
+**matplotlib.pyplot**: ‘Matplotlib’ allows to visualize data in multiple ways. \ 
+**re**: ‘Regular Expression’ allows us to check if a specified string and a given regular expression match.  \
+**wordcloud**: ‘Wordcloud’ allows us to generate a word cloud in Python for visualization.  \
+**better_profanity**: ‘Better-Profanity’ allows us to censor data. \ 
 
 ~~This was mistaken text~~
 <sub>This is a subscript text</sub>
@@ -83,7 +83,7 @@ I would like to thank Brienna Herold for her article about [How to Collect Data 
 [Link](https://lingfeiwu1.gitbooks.io/data-mining-in-social-science/content/scraping_articles_from_the_washington_post/)
 [Scraping Washington Post with Python and Beautiful Soup](https://proxiesapi.com/blog/scraping-washington-post-with-python-and-beautiful.html.php)
 
-###Profiling and cleaning the data
+### Profiling and cleaning the data
 
 ### Exploration and vizualization of the data
 
