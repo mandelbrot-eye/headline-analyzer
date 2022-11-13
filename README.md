@@ -8,13 +8,13 @@ ___
 3. Profiling and cleaning the data
 4. Exploration and vizualization of the data
 5. Preprocessing the data
-6. NLP analys
-  6a.
-  6b. Sentiment analysis 
-  6c. Tokenization and vectorization of thr data
-  6d.   
-7. Choosing the Text generating model
-8. Training of the NN
+6. NLP analys 
+  6a.  
+  6b. Sentiment analysis   
+  6c. Tokenization and vectorization of thr data. 
+  6d.    
+7. Choosing the Text generating model  
+8. Training of the NN  
 9. Deploying the model. Results
 
 ___
@@ -23,13 +23,13 @@ ___
 
 #### Python libraries that are useful for the project
 
-**re**: ‘Regular Expression’ allows us to check if a specified string and a given regular expression match.
-**numpy**: ‘NumPy’ allows us to work with arrays.
-**textblob**: ‘TextBlob’ allows us to process textual data for NLP.
-**matplotlib.pyplot**: ‘Matplotlib’ allows us to visualize data in multiple ways.
-**pandas**: ‘Pandas’ is used to work with data to analyze it.
-**wordcloud**: ‘Wordcloud’ allows us to generate a word cloud in Python for visualization.
-**better_profanity**: ‘Better-Profanity’ allows us to censor data.
+**re**: ‘Regular Expression’ allows us to check if a specified string and a given regular expression match.  
+**numpy**: ‘NumPy’ allows us to work with arrays.  
+**textblob**: ‘TextBlob’ allows us to process textual data for NLP.  
+**matplotlib.pyplot**: ‘Matplotlib’ allows us to visualize data in multiple ways.  
+**pandas**: ‘Pandas’ is used to work with data to analyze it.  
+**wordcloud**: ‘Wordcloud’ allows us to generate a word cloud in Python for visualization.  
+**better_profanity**: ‘Better-Profanity’ allows us to censor data.  
 
 ~~This was mistaken text~~
 <sub>This is a subscript text</sub>
