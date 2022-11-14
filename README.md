@@ -8,7 +8,7 @@ ___
 3. Profiling and cleaning the data
 4. Exploration and vizualization of the data
 5. Preprocessing the data
-6. NLP analys 
+6. NLP analys \
   6a.  
   6b. Sentiment analysis   
   6c. Tokenization and vectorization of thr data       
@@ -23,14 +23,15 @@ ___
 
 #### Python libraries that are useful for the project
 
-**numpy**: ‘NumPy’ allows to work with arrays.  \
-**pandas**: ‘Pandas’ is used to work with data to analyze it.  \
-**textblob**: ‘TextBlob’ allows us to process textual data for NLP.  \
-**matplotlib.pyplot**: ‘Matplotlib’ allows to visualize data in multiple ways. \ 
-**re**: ‘Regular Expression’ allows us to check if a specified string and a given regular expression match.  \
-**wordcloud**: ‘Wordcloud’ allows us to generate a word cloud in Python for visualization.  \
-**better_profanity**: ‘Better-Profanity’ allows us to censor data. \ 
-
+**os**: for handling files\ 
+**numpy**: to work with multi-dimensional arrays and matrices.  \
+**pandas**: used to work with data to analyze it.  \
+**textblob**: to process textual data for NLP.  \
+**matplotlib.pyplot**:  allows to visualize data in multiple ways.  \ 
+**re**: to check if a specified string and a given regular expression match.  \
+**wordcloud**: to generate a word cloud in Python for visualization.  \
+**better_profanity**: to censor data. \ 
+**pillow**: library is a package that enables image reading. Pillow is a wrapper for PIL - Python Imaging Library.
 ~~This was mistaken text~~
 <sub>This is a subscript text</sub>
 
