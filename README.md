@@ -21,28 +21,23 @@ ___
 
 ### Choosing the subjects and methods of the study
 
+~~This was mistaken text~~
+
 #### Python libraries that are useful for the project
 
-**os**: for handling files\ 
-**numpy**: to work with multi-dimensional arrays and matrices.  \
-**pandas**: used to work with data to analyze it.  \
-**textblob**: to process textual data for NLP.  \
-**matplotlib.pyplot**:  allows to visualize data in multiple ways.  \ 
-**re**: to check if a specified string and a given regular expression match.  \
-**wordcloud**: to generate a word cloud in Python for visualization.  \
-**better_profanity**: to censor data. \ 
-**pillow**: library is a package that enables image reading. Pillow is a wrapper for PIL - Python Imaging Library.
-~~This was mistaken text~~
-<sub>This is a subscript text</sub>
-
-`rgb(9, 105, 218)`
-`#0969DA`
-
-
-| Header1 | Header2 | Header3 | 
+| Library | What for | Analysis part| 
 | :---- | :----: | ----: |
-| R1C1 | R1C2 | R1C3 |
-| R2C1 | R2C2 | R2C3 |
+| **os**| for handling files | R1C3 |
+| **numpy**| to work with multi-dimensional arrays and matrices | R2C3 |
+| **pandas**| to work with data to analyze it | R2C3 |
+| **textblob**| to process textual data for NLP | R2C3 |
+| **matplotlib.pyplot**| allows to visualize data in multiple ways | R2C3 |
+| **re**| to check if a specified string and a given regular expression match | R2C3 |
+| **wordcloud**| to generate a word cloud in Python for visualization| R2C3 |
+| **better_profanity**| to censor data | R2C3 |
+| **pillow**| library is a package that enables image reading. Pillow is a wrapper for PIL - Python Imaging Library | R2C3 |
+| **-**| R2C2 | R2C3 |
+
 
 ### Scraping the data
 
@@ -124,7 +119,7 @@ I would like to thank Brienna Herold for her article about [How to Collect Data 
 
 [Detecting Headline Sarcasm with Machine Learning](https://medium.com/m2mtechconnect/detecting-headline-sarcasm-with-machine-learning-4c3523104cdf)
 
-## One more analysis
+## One more analysis <sub>for the future</sub>
 
 Alexander Baturo, Niheer Dasandi, and Slava Mikhaylov, "Understanding State Preferences With Text As Data: Introducing the UN General Debate Corpus" Research & Politics, 2017. doi: 2053168017712821
 [DataSet of UN speaches](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/0TJX8Y)
