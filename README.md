@@ -19,11 +19,11 @@ ___
 
 ___
 
-### Choosing the subjects and methods of the study
+## Choosing the subjects and methods of the study
 
 ~~This was mistaken text~~
 
-#### Python libraries that are useful for the project
+### Python libraries that are useful for the project
 
 | Library | What for | Analysis part| 
 | :---- | :----: | ----: |
@@ -39,7 +39,7 @@ ___
 | **-**| R2C2 | R2C3 |
 
 
-### Scraping the data
+## Scraping the data
 
 [Web scraping with Python](https://iqss.github.io/dss-workshops/PythonWebScrape.html)
 
@@ -74,31 +74,31 @@ I would like to thank Brienna Herold for her article about [How to Collect Data 
 
 [Tutorial](https://www.youtube.com/watch?v=v_r0nO_ocVg)
 
-#### Washington Times data scraping 
+### Washington Times data scraping 
 
 [Link](https://lingfeiwu1.gitbooks.io/data-mining-in-social-science/content/scraping_articles_from_the_washington_post/)
 [Scraping Washington Post with Python and Beautiful Soup](https://proxiesapi.com/blog/scraping-washington-post-with-python-and-beautiful.html.php)
 
-### Profiling and cleaning the data
+## Profiling and cleaning the data
 
-### Exploration and vizualization of the data
+## Exploration and vizualization of the data
 
 
-### Preprocessing the data
+## Preprocessing the data
 
-### NLP
+## NLP
 
 [Spacy library](https://spacy.io)
 [Natural Language Processing With spaCy in Python](https://realpython.com/natural-language-processing-spacy-python/#visualization-using-displacy)
 
-####
-#### Sentiment analysis
+
+### Sentiment analysis
 
 [Twitter example of Sentiment analysis](https://medium.com/@nikitasilaparasetty/twitter-sentiment-analysis-for-data-science-using-python-in-2022-6d5e43f6fa6e)
 
 [R: Scraping The New York Times For Sentiment Analysis Of Presidential Candidates](https://rstudio-pubs-static.s3.amazonaws.com/503266_3d55c43b76614a8da0a935c60016cd02.html)
 
-### Choosing the Text generating model
+## Choosing the Text generating model
 [Generating Fake but Realistic Headlines Using Deep Neural Networks](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7121779/)
 
 [Simulating text with Markov chain in Python](https://towardsdatascience.com/simulating-text-with-markov-chains-in-python-1a27e6d13fc6)
