@@ -62,7 +62,11 @@ ___
 
 I would like to thank Brienna Herold for her article about [How to Collect Data From The New York Times Over Any Period of Time](https://towardsdatascience.com/collecting-data-from-the-new-york-times-over-any-period-of-time-3e365504004)
 
+[Link to New York Time developer's page](https://developer.nytimes.com)
+
 [Link to New York Time official API](https://developer.nytimes.com/apis)
+
+[New York Times archive](https://developer.nytimes.com/docs/archive-product/1/overview)
 
 ##### New York Times data scraping with Spacy
 
