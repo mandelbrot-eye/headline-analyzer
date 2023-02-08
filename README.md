@@ -25,7 +25,7 @@ ___
 
 ### Python libraries that are useful for the project
 
-| Library | What for | Analysis part| References|
+| Library | What for | Analysis part|
 | :---- | :----: | ----: |
 | **os**| for handling files | R1C3 |
 | **numpy**| to work with multi-dimensional arrays and matrices | R2C3 |
@@ -36,12 +36,7 @@ ___
 | **wordcloud**| to generate a word cloud in Python for visualization| R2C3 |
 | **better_profanity**| to censor data | R2C3 |
 | **pillow**| library is a package that enables image reading. Pillow is a wrapper for PIL - Python Imaging Library | R2C3 |
-| **markovify**| to generate headlines | simple, extensible Markov chain generator ||
-| **os**| for handling files | R1C3 |
-| **os**| for handling files | R1C3 |
-| **os**| for handling files | R1C3 |
-| **os**| for handling files | R1C3 |
-| **os**| for handling files | R1C3 |
+| **markovify**| to generate headlines | simple, extensible Markov chain generator |
 | **os**| for handling files | R1C3 |
 | **-**| R2C2 | R2C3 |
 
