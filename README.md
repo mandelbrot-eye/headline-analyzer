@@ -45,7 +45,6 @@ ___
 
 [Web scraping with Python](https://iqss.github.io/dss-workshops/PythonWebScrape.html)
 
-[Web Scraping news articles in Python](https://towardsdatascience.com/web-scraping-news-articles-in-python-9dd605799558)
 
 ### BeautifulSoup
 
@@ -58,6 +57,9 @@ ___
 [Beautiful Soup: Build a Web Scraper With Python](https://realpython.com/beautiful-soup-web-scraper-python/)
 
 [The Art of Web Scraping](https://betterprogramming.pub/the-art-of-web-scraping-382e2ea43c18) - example with ebay
+
+
+[Web Scraping news articles in Python](https://towardsdatascience.com/web-scraping-news-articles-in-python-9dd605799558) - wep-page design and BeautifulSoup
 
 ### Selenium
 
@@ -87,11 +89,14 @@ I would like to thank Brienna Herold for her article about [How to Collect Data 
 
 [Using New York Times API and jq to collect news data](https://medium.com/@danalindquist/using-new-york-times-api-and-jq-to-collect-news-data-a5f386c7237b)
 
-##### New York Times data scraping with Spacy
+[Web Scraping The New York Times Articles with Python : Part I](https://medium.com/codex/web-scraping-the-new-york-times-articles-with-python-part-i-e2d6fc02d4e0) - scraping with API
+
+##### New York Times data scraping with Scrapy
 
 [How to Scrape The New York Times using Python Scrapy](https://www.proxiesapi.com/blog/how-to-scrape-the-new-york-times-using-python-scra.html.php)
 
-[Web Scraping The New York Times Articles with Python : Part I](https://medium.com/codex/web-scraping-the-new-york-times-articles-with-python-part-i-e2d6fc02d4e0)
+
+
 
 [How to Scrape The New York Times using Python Scrapy](https://proxiesapi-com.medium.com/how-to-scrape-the-new-york-times-using-python-scrapy-6b9a90d4a575)
 
@@ -99,7 +104,7 @@ I would like to thank Brienna Herold for her article about [How to Collect Data 
 
 ### Washington Times data scraping 
 
-[Link](https://lingfeiwu1.gitbooks.io/data-mining-in-social-science/content/scraping_articles_from_the_washington_post/)
+[Scraping Articles from the Washington Post](https://lingfeiwu1.gitbooks.io/data-mining-in-social-science/content/scraping_articles_from_the_washington_post/) - short example with BeautifulSoup
 [Scraping Washington Post with Python and Beautiful Soup](https://proxiesapi.com/blog/scraping-washington-post-with-python-and-beautiful.html.php)
 
 ## Profiling and cleaning the data
@@ -110,6 +115,9 @@ I would like to thank Brienna Herold for her article about [How to Collect Data 
 ## Preprocessing the data
 
 [Language Processing Pipelines](https://spacy.io/usage/processing-pipelines)
+
+[Analyzing The New York Times Articles with Python: Part II — Text Data Preprocessing: A Step-by-Step Guide](https://medium.com/codex/analyzing-the-new-york-times-articles-with-python-part-ii-text-data-preprocessing-a-1cf7425acb86) - tokenization, removing punctuation and stop words, lemmatization and collocations.
+In the part 3 - topic discovery using LDA and sentiment analysis using TextBlob
 
 ## NLP
 
@@ -147,9 +155,9 @@ I would like to thank Brienna Herold for her article about [How to Collect Data 
 
 [Creating News Headlines with AI](https://andreasstckl.medium.com/creating-news-headlines-with-ai-2d8c5bb76241)
 
-[Yet another text generation project](https://towardsdatascience.com/yet-another-text-generation-project-5cfb59b26255)
+[Yet another text generation project](https://towardsdatascience.com/yet-another-text-generation-project-5cfb59b26255) - Recurrent Neural Networks
 
-[Headline Generation using Deep Neural Networks](https://scholarworks.sjsu.edu/cgi/viewcontent.cgi?article=1526&context=etd_projects)
+[Headline Generation using Deep Neural Networks](https://scholarworks.sjsu.edu/cgi/viewcontent.cgi?article=1526&context=etd_projects) - RNN, LSTM, GRU
 
 [Text classification](https://developers.google.com/machine-learning/guides/text-classification/step-1)
 
@@ -157,6 +165,9 @@ I would like to thank Brienna Herold for her article about [How to Collect Data 
 
 [Detecting Headline Sarcasm with Machine Learning](https://medium.com/m2mtechconnect/detecting-headline-sarcasm-with-machine-learning-4c3523104cdf)
 The sarcastic news headlines are from The Onion, while nonsarcastic ones are from HuffPost. - the data set with kaggle
+
+## Machine learning on large data set
+[Using an Out-of-Core Approach to Process Large Datasets](https://towardsdatascience.com/how-to-speed-up-data-processing-in-pandas-a272d3485b24) - about vaex library
 
 ## One more analysis <sub>for the future</sub>
 
