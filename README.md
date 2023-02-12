@@ -45,6 +45,7 @@ ___
 
 [Web scraping with Python](https://iqss.github.io/dss-workshops/PythonWebScrape.html)
 
+Different methods 
 
 ### BeautifulSoup
 
