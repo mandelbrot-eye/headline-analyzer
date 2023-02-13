@@ -19,45 +19,19 @@ ___
 7. Choosing the Text generating model  
 8. Training of the NN  
 9. Deploying the model. Results
+10. For future work
 
 ___
 
 ## Choosing the subject of the study. Review of the methods.
 
+### Scraping the data - the first aim.
 
+[Web scraping with Python](https://iqss.github.io/dss-workshops/PythonWebScrape.html) - general guide on scraping the web data with Python.
 
+There are several libraries in Python that allow to scrape the data from webpages. Some of them are **Beautiful Soap**, **Selenium**, **Scrapy**.
 
-
-  *  *  *  *  *
-
-
-___   
-
-## Python libraries that are useful for the project
-
-| Library | What for | Analysis part|
-| :---- | :----: | ----: |
-| **os**| for handling files | R1C3 |
-| **numpy**| to work with multi-dimensional arrays and matrices | R2C3 |
-| **pandas**| to work with data to analyze it | R2C3 |
-| **textblob**| to process textual data for NLP | R2C3 |
-| **matplotlib.pyplot**| allows to visualize data in multiple ways | R2C3 |
-| **re**| to check if a specified string and a given regular expression match | R2C3 |
-| **wordcloud**| to generate a word cloud in Python for visualization| R2C3 |
-| **better_profanity**| to censor data | R2C3 |
-| **pillow**| library is a package that enables image reading. Pillow is a wrapper for PIL - Python Imaging Library | R2C3 |
-| **markovify**| to generate headlines | simple, extensible Markov chain generator |
-| **os**| for handling files | R1C3 |
-| **-**| R2C2 | R2C3 |
-
-
-## Scraping the data
-
-[Web scraping with Python](https://iqss.github.io/dss-workshops/PythonWebScrape.html)
-
-Different methods 
-
-### BeautifulSoup
+#### BeautifulSoup
 
 [Beautiful Soup: Build a Web Scraper With Python](https://realpython.com/beautiful-soup-web-scraper-python/)
 
@@ -115,10 +89,36 @@ I would like to thank Brienna Herold for her article about [How to Collect Data 
 
 [Tutorial](https://www.youtube.com/watch?v=v_r0nO_ocVg)
 
-### Washington Times data scraping 
 
-[Scraping Articles from the Washington Post](https://lingfeiwu1.gitbooks.io/data-mining-in-social-science/content/scraping_articles_from_the_washington_post/) - short example with BeautifulSoup
-[Scraping Washington Post with Python and Beautiful Soup](https://proxiesapi.com/blog/scraping-washington-post-with-python-and-beautiful.html.php)
+
+
+___   
+
+## Python libraries that are useful for the project
+
+| Library | What for | Analysis part|
+| :---- | :----: | ----: |
+| **os**| for handling files | R1C3 |
+| **numpy**| to work with multi-dimensional arrays and matrices | R2C3 |
+| **pandas**| to work with data to analyze it | R2C3 |
+| **textblob**| to process textual data for NLP | R2C3 |
+| **matplotlib.pyplot**| allows to visualize data in multiple ways | R2C3 |
+| **re**| to check if a specified string and a given regular expression match | R2C3 |
+| **wordcloud**| to generate a word cloud in Python for visualization| R2C3 |
+| **better_profanity**| to censor data | R2C3 |
+| **pillow**| library is a package that enables image reading. Pillow is a wrapper for PIL - Python Imaging Library | R2C3 |
+| **markovify**| to generate headlines | simple, extensible Markov chain generator |
+| **os**| for handling files | R1C3 |
+| **-**| R2C2 | R2C3 |
+
+
+
+
+
+
+Different methods 
+
+
 
 ## Profiling and cleaning the data
 
@@ -217,16 +217,34 @@ The sarcastic news headlines are from The Onion, while nonsarcastic ones are fro
 
 ## One more analysis <sub>for the future</sub>
 
-Alexander Baturo, Niheer Dasandi, and Slava Mikhaylov, "Understanding State Preferences With Text As Data: Introducing the UN General Debate Corpus" Research & Politics, 2017. doi: 2053168017712821
-[DataSet of UN speaches](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/0TJX8Y)
+
 
 [Information extraction](https://www.analyticsvidhya.com/blog/2020/06/nlp-project-information-extraction/)
 
 [SwiftKey's latest keyboard is powered by a neural network - about the first neural network keyboard](https://www.engadget.com/2015-10-08-swiftkey-neural-alpha.html)
+
+
+## For future work
+
+For this particular project I have decided to choose New York Times as the most popular newspaper. 
+However, there are several useful links, decribing work with Washington Post.
+
+### Washington Times data scraping 
+
+[Scraping Articles from the Washington Post](https://lingfeiwu1.gitbooks.io/data-mining-in-social-science/content/scraping_articles_from_the_washington_post/) - short example with BeautifulSoup
+[Scraping Washington Post with Python and Beautiful Soup](https://proxiesapi.com/blog/scraping-washington-post-with-python-and-beautiful.html.php)
+
+### Some interesting datasets
+
+[News Category Dataset](https://www.kaggle.com/datasets/rmisra/news-category-dataset/code?datasetId=32526&sortBy=voteCount)
+
+Alexander Baturo, Niheer Dasandi, and Slava Mikhaylov, "Understanding State Preferences With Text As Data: Introducing the UN General Debate Corpus" Research & Politics, 2017. doi: 2053168017712821
+[DataSet of UN speaches](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/0TJX8Y)
+
+#### Other headlines generators - results
+
 [Example of headlines generator](http://www.upworthygenerator.com) - generator of funny headlines
 [The website news generator](http://clickotron.com)
 [Another fun example of generating headlines](https://vc.ru/services/238757-neyronnaya-set-generiruet-zagolovki-statey-dlya-vc-ru)
 
-## Some interesting datasets
 
-[News Category Dataset](https://www.kaggle.com/datasets/rmisra/news-category-dataset/code?datasetId=32526&sortBy=voteCount)
