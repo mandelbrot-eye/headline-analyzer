@@ -4,13 +4,14 @@ Scraping the headlines of the newspapers and training the neural network to crea
 ___
 
 ## The outline of the project:
-0. Review of the methods
-1. Choosing the methods of the study
-2. Scraping the data
-3. Profiling and cleaning the data
-4. Exploration and vizualization of the data
-5. Preprocessing the data
-6. NLP analys \
+
+1. Choosing the subject of the study. Review of the methods.
+2. Choosing the methods. Python libraries that are useful for the project.
+3. Scraping the data
+4. Profiling and cleaning the data
+5. Exploration and vizualization of the data
+6. Preprocessing the data
+7. NLP analys \
   6a.  
   6b. Sentiment analysis   
   6c. Tokenization and vectorization of thr data       
@@ -21,11 +22,11 @@ ___
 
 ___
 
-## Choosing the subjects and methods of the study
+## Choosing the subject of the study. Review of the methods.
 
-~~This was mistaken text~~
 
-### Python libraries that are useful for the project
+
+## Python libraries that are useful for the project
 
 | Library | What for | Analysis part|
 | :---- | :----: | ----: |
