@@ -1,5 +1,5 @@
 # World's history through analysis of newspapers' headlines. 
-Scraping the headlines of the newspapers and training the neural network to create new headlines based on the old ones.
+Scraping New York Times headlines. Analysis of the text.  Training the neural network to create new headlines based on the old ones.
 
 ___
 
@@ -25,6 +25,13 @@ ___
 ## Choosing the subject of the study. Review of the methods.
 
 
+
+
+
+  *  *  *  *  *
+
+
+___   
 
 ## Python libraries that are useful for the project
 
