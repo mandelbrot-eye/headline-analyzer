@@ -1,9 +1,11 @@
-# World's history through analysis of newspapers' headlines.
+# World's history through analysis of newspapers' headlines. 
 Scraping the headlines of the newspapers and training the neural network to create new headlines based on the old ones.
+
 ___
 
 ## The outline of the project:
-1. Choosing the subjects and methods of the study
+0. Review of the methods
+1. Choosing the methods of the study
 2. Scraping the data
 3. Profiling and cleaning the data
 4. Exploration and vizualization of the data
